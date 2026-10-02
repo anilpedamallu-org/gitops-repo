@@ -21,7 +21,7 @@ body {{
     font-family: "Comic Sans MS", cursive;
 }}
 .title {{
-    font-size: 40px;
+    font-size: 45px;
 }}
 .counter {{
     position: fixed;
