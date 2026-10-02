@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First Deployment App
 
 Tiny Python web app for testing deployments.
@@ -23,3 +24,6 @@ Favicon requests and other paths are not counted.
 docker build -t first-deployment-app .
 docker run --rm -p 8000:8000 first-deployment-app
 ```
+=======
+# deployment
+>>>>>>> 380415cb7091f934d62025a2e93c86b96d4da618
